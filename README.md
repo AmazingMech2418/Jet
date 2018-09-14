@@ -9,3 +9,6 @@ Extract all contents.
 Rename `Jet-_Data` to `Jet!_data`
 
 Start the exe file.
+
+## Notes
+Unfortunately, some textures weren't able to upload including the airplane textures.
