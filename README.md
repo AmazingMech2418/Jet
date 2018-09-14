@@ -12,3 +12,6 @@ Start the exe file.
 
 ## Notes
 Unfortunately, some textures weren't able to upload including the airplane textures.
+
+## Credits
+- Unity for some assets and for the Unity editor.
